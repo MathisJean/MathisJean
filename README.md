@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mathisojean%40hotmail.com-blue?style=flat-square&logo=maildotru&logoColor=white)](mailto:mathisojean@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mathis--jean-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathis-jean-897399378)
-![Location](https://img.shields.io/badge/Moncton-NB%2C%20Canada-lightgrey?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-NB%2C%20Canada-lightgrey?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -23,7 +23,7 @@ I'm a Computer Science student at Université de Moncton who builds solo — fro
 | Project | What it is | Status |
 |---|---|---|
 | **[STRIKR](https://github.com/MathisJean/strikr_public)** | A link-in-bio style profile platform for combat sports athletes — full-stack, solo-built, passwordless auth, admin tooling, 13 structured security self-audits | Pre-launch, targeting fall 2026 |
-| **[CA Simulator](https://github.com/MathisJean/cellular_automata_public)** | A 2D Metroidvania with a Noita-inspired falling-sand cellular automaton engine, built in C++/raylib from scratch | Active development |
+| **[Cellular Automata](https://github.com/MathisJean/cellular_automata_public)** | A 2D Metroidvania with a Noita-inspired falling-sand cellular automaton engine, built in C++/raylib from scratch | Active development |
 
 ---
 
